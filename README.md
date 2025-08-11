@@ -6,7 +6,7 @@ All transactions use **ERC-20 tokens** 💱, and borrowers must lock **collatera
 
 The contract automates:
 - 📝 Loan creation by lenders.
-- 🔒 Collateral deposit by borrowers.
+- 🔒 Collateral deposit by borrowers. 
 - 💵 Repayment with interest before a due date.  
 - 🔄 Automatic collateral return upon repayment.
 - ⚠️ Collateral claim by lenders if the borrower defaults. 
