@@ -4,7 +4,7 @@
 A **decentralized microloan smart contract** that enables lenders 💳 and borrowers 🧑‍🌾 to connect directly on-chain without intermediaries.  
 All transactions use **ERC-20 tokens** 💱, and borrowers must lock **collateral** 🔒 before receiving the loan.
 
-The contract automates:
+The contract automates: 
 - 📝 Loan creation by lenders.
 - 🔒 Collateral deposit by borrowers.  
 - 💵 Repayment with interest before a due date.  
