@@ -9,7 +9,7 @@ The contract automates:
 - 🔒 Collateral deposit by borrowers.
 - 💵 Repayment with interest before a due date.  
 - 🔄 Automatic collateral return upon repayment.
-- ⚠️ Collateral claim by lenders if the borrower defaults.
+- ⚠️ Collateral claim by lenders if the borrower defaults. 
  
 ### ✨ Key Features
 - **Lender offers loan**:
