@@ -10,7 +10,7 @@ The contract automates:
 - 💵 Repayment with interest before a due date.  
 - 🔄 Automatic collateral return upon repayment.
 - ⚠️ Collateral claim by lenders if the borrower defaults.
-
+ 
 ### ✨ Key Features
 - **Lender offers loan**:
   - 📍 ERC-20 token address
