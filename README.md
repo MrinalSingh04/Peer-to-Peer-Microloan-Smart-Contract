@@ -1,4 +1,4 @@
-# 🚀 Day 182 — Peer-to-Peer Microloan Smart Contract 💰🤝
+# Peer-to-Peer Microloan Smart Contract 💰🤝
 
 ## 📌 What
 A **decentralized microloan smart contract** that enables lenders 💳 and borrowers 🧑‍🌾 to connect directly on-chain without intermediaries.  
